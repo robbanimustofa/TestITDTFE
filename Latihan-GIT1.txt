@@ -1,0 +1,4 @@
+Hello ini Latihan GIT Pertama
+Membua akun GIT
+Mengetahui command dasar GIT
+Integrasi GIT
